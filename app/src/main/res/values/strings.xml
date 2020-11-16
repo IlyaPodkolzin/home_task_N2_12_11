@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Банковский депозит</string>
+    <string name="Initial_sum">Начальная сумма:</string>
+    <string name="Currency">Валюта:</string>
+    <string name="Term">Срок депозита (мес.):</string>
+    <string name="Percent">Процент:</string>
+    <string name="Count">Подсчитать итоговую сумму:</string>
+    <string name="Result">Результат:</string>
+    <string name="Go_back">Вернуться назад</string>
+    <string name="Cap_amount">Кол-во капитализаций\nв году</string>
+</resources>
